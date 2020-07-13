@@ -1,15 +1,24 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: "О проекте"
+tagline: онформация об исполнителях и головной организации
 permalink: /about.html
 ref: about
+curlang: ru
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Коллектв проекта насчитывает 8 человек, среди них 1 доктор наук, 4 кандидата наук, один аспирант и два соискателя.
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+Головная огранизация проекта - [Дальневостоный федеральный университет](www.dvfu.ru).
+
+Организации, принимающие участие в выполнении проекта:
+
+- [Институт автоматики и процесов управления ДВО РАН](www.iacp.dvo.ru)
+- [Тихоокеанский океанологический институт им В.И. Ильичёва ДВО РАН](www.iacp.dvo.ru)
+- [Институт оптики атмосферы СО РАН](www.iao.ru)
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+
+
+[Домой]({{ '/' | absolute_url }})

@@ -6,6 +6,6 @@ ref: contact
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+Руководителем проекта является научный сотрудник ШЕН ДВФУ, старший научный сотрудник ИАПУ ДВО РАН [Шмирко Константин Александрович](mailto:shmirko.ka@dvfu.ru)
 
 [Домой]({{ '/' | absolute_url }})

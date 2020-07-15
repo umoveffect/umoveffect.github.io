@@ -40,7 +40,7 @@ __Рассеяние=Возбуждение+Переизлучение__
 
 ### Список использованной литературы ###
 
-1. Борен К., Хафмен Д. Поглощение и рассеяние света малыми частицами /. Пер. с англ. М.: Мир, 1986 (Bohren C.R., Huffman D.R. …автор: АД Левин)
-2. Deirmendjian, D.: Scattering and Polarization Properties of Water Clouds and Hazes in the Visible and Infrared, Appl. Opt., 3, 187–196, https://doi.org/10.1364/AO.3.000187, 1964. a, b
+[1]: Борен К., Хафмен Д. Поглощение и рассеяние света малыми частицами /. Пер. с англ. М.: Мир, 1986 (Bohren C.R., Huffman D.R. …автор: АД Левин)
+[2]: Deirmendjian, D.: Scattering and Polarization Properties of Water Clouds and Hazes in the Visible and Infrared, Appl. Opt., 3, 187–196, https://doi.org/10.1364/AO.3.000187, 1964. a, b
 
 

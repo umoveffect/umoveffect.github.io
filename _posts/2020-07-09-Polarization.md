@@ -3,6 +3,8 @@ layout: post
 title: "Поляризация света"
 categories: lightscattering polzrization
 mathjax: true
+author:
+    - Константин Шмирко
 ---
 
 

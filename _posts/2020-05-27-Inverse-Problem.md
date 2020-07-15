@@ -4,6 +4,8 @@ mathjax: true
 title:  "Прямая и обратная задачи атмосферной оптики"
 date:   2020-05-27 23:41:54 +0000
 categories: lightscattering inverse-problems
+author:
+    - Константин Шмирко
 ---
 
 

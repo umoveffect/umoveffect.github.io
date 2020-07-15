@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Команда проекта"
-tagline: Исполнители и головная организация
-permalink: /about.html
+title: Команда проекта
+permalink: /about/
 ref: about
 order: 0
 ---
@@ -21,3 +20,4 @@ order: 0
 
 
 [Домой]({{ '/' | absolute_url }})
+

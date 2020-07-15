@@ -2,7 +2,6 @@
 layout: post
 title: "Поляризация света"
 categories: lightscattering polzrization
-draft: true
 mathjax: true
 ---
 

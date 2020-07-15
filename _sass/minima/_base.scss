@@ -44,6 +44,12 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+  font-family: FiraCode-Light;
+}
+
+p {
+  text-align: justify;
+  
 }
 
 hr {
@@ -279,4 +285,9 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+img[src$="center"] {
+  display:block;
+  margin: 0 auto;
 }

@@ -58,3 +58,12 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
+
+
+#collections:
+#  category:
+#    output: true
+    
+paginate: 10
+paginate_path: "/page/:num/"
